@@ -1,0 +1,1 @@
+NBA fans go on and on about how clutch their favorite players are. Is this a real, measurable phenomenon? Are certain player archetypes more associated with being clutch than others? I try to answer these questions in a notebook that mostly serves to help me learn various visualization and modeling libraries.
